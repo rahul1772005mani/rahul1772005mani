@@ -19,7 +19,13 @@ Final-year B.Tech CSE student who builds full-stack web and mobile applications 
 **Tools & Platforms:** ![Git](https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-039BE5?style=flat-square&logo=firebase&logoColor=white)
 
 ---
-![snake gif](https://github.com/rahul1772005/rahul1772005mani/blob/output/github-snake-dark.svg)
+### 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rahul1772005mani/rahul1772005mani/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rahul1772005mani/rahul1772005mani/output/github-snake.svg" />
+  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/rahul1772005mani/rahul1772005mani/output/github-snake.svg" />
+</picture>
 ---
 
 ### 🚀 Featured Projects
